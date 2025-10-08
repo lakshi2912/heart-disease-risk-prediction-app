@@ -1,5 +1,4 @@
 # app.R
-# Improved Thesis-Ready Shiny App (single-file)
 # Bayesian Logistic Regression-Based Personalized Health Advisory System
 # Make sure 'heart_model_final_ca.rds' is in the same folder (or adjust model_path)
 
